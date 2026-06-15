@@ -42,19 +42,19 @@ This dataset tracks 24 donation attempts, including the vital signs taken by the
 ## 3. Core Insights & Visualizations
 
 ### Tracking My Hemoglobin & The 2020 Deferrals
-![Iron Levels](30664a60-235b-48e6-9d01-99657618d678.png)
+Iron_Trends
 My iron levels started out quite high, topping out at 18.9 g/dL in 2018. The most interesting trend is the sudden drop between mid-2020 and mid-2021. You can see exactly where I hit a wall and got deferred three times (marked by the red dots) for dropping below the standard 13.0 g/dL line. After May 2021, my levels bounced back completely and stabilized through 2026.
 
 ### Long-Term Blood Pressure Stability
-![Blood Pressure Trends](d876a5a2-7e79-49d3-a811-2117006cec25.png)
+Blood_Pressure_Trends
 This graph maps my Systolic and Diastolic trends against standard baseline markers (120/80 mmHg), using the shaded gap to highlight my pulse pressure variance over time. My blood pressure has been solid for nearly a decade; my very first reading back in 2017 was the highest at 132/90 mmHg, but the numbers have steadily leveled out, becoming remarkably consistent from 2024 onward.
 
 ### Pulse Rate Baseline
-![Pulse Rate Trends](pulse_rate_trends.png)
+Pulse_Rate_Trends
 My heart rate has stayed perfectly healthy across the entire timeline, sitting comfortably inside the standard 60-100 bpm resting range (the green band). The data catches a couple of highly efficient, athletic dips down to 60 bpm in 2018 and 2020, and shows a really steady trend hovering between 70 and 76 bpm over the last few years.
 
 ### Where I Donated: Success vs. Deferrals
-![Donation Success by Location](Code_Generated_Image.png)
+Donation_Center
 I broke down my unique visits by location using a horizontal stacked bar chart to see where my donations were concentrated. Most of my attempts happened at Bacon Academy and St. Andrews Catholic Church. The chart highlights that my low-iron deferrals were highly isolated events—two happened at St. Andrews and one at the middle school, while every single other community location has a perfect 100% success rate.
 
 ---
