@@ -3,7 +3,7 @@
 A 9-year longitudinal data analysis study of blood donation vitals and operational yields.
 
 ## 1. Project Overview
-Over the last nine years (2017 to 2026), I logged the health screening data from every blood donation attempt I made. I wanted to throw this history into Python to see what a long-term look at my vitals—iron levels, blood pressure, and heart rate—actually looked like, and figure out the exact patterns behind why I got deferred a few times.
+Over the last nine years (2017 to 2026), I logged the health screening data from every blood donation attempt I made. I wanted to throw this history into Python to see what a long-term look at my vitals such as iron levels, blood pressure, and heart rate actually looked like, and figure out the exact patterns behind why I got deferred a few times.
 
 ---
 
@@ -51,7 +51,7 @@ This graph maps my Systolic and Diastolic trends against standard baseline marke
 My heart rate has stayed perfectly healthy across the entire timeline, sitting comfortably inside the standard 60-100 bpm resting range (the green band). The data catches a couple of highly efficient, athletic dips down to 60 bpm in 2018 and 2020, and shows a really steady trend hovering between 70 and 76 bpm over the last few years.
 
 ### Donation_Center
-I broke down my unique visits by location using a horizontal stacked bar chart to see where my donations were concentrated. Most of my attempts happened at Bacon Academy and St. Andrews Catholic Church. The chart highlights that my low-iron deferrals were highly isolated events—two happened at St. Andrews and one at the middle school, while every single other community location has a perfect 100% success rate.
+I broke down my unique visits by location using a horizontal stacked bar chart to see where my donations were concentrated. Most of my attempts happened at Bacon Academy and St. Andrews Catholic Church. The chart highlights that my low-iron deferrals were highly isolated event as two happened at St. Andrews and one at the middle school, while every single other community location has a perfect 100% success rate.
 
 ---
 
